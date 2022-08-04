@@ -1,4 +1,3 @@
-import com.davie.format.CsvFormat;
 import com.davie.reader.LineIterator;
 import org.junit.jupiter.api.Assertions;
 
